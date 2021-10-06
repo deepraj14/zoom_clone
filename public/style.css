@@ -1,0 +1,18 @@
+*{
+    background-color:#010712;
+}
+
+#video-grid{
+    margin: 50px;
+}
+#txt
+{
+    color: white;
+    margin-left: 100px;
+}
+
+
+.main{
+    height: 100vh;
+    display: flex;
+}

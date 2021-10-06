@@ -1,0 +1,35 @@
+*{
+    background-color:white;
+}
+
+#box
+{
+    background-color:aqua !important;
+    margin-top: 200px;
+    display: flex;
+}
+
+#name
+{
+    display: block;
+}
+#pass{
+    display: block;
+}
+
+#first
+{
+    margin: 20px;
+}
+
+
+#second
+{
+    margin: 20px;
+}
+
+#z{
+    height: 300px;
+    
+}
+
